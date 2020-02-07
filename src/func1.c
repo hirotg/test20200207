@@ -6,7 +6,7 @@ unsigned char func1(void){
     unsigned short b;
 
     b=1;
-    a=(unsigned char)b;
+    a=b;
       
 
     return 1;
